@@ -1,0 +1,43 @@
+<manifest alg="2" build="2017.1.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="elementyth.github.io/b20" resolutions="1x" timestamp="1515106179144">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="index.css" crc="4069922125" ref="index"/>
+    <file name="iefonts_index.css" crc="3989519193" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="278381782" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3854337258" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="webpro.js" crc="416662029" ref="index"/>
+    <file name="form_check.php" crc="4110044762" ref="index"/>
+    <file name="form_throttle.php" crc="22190333" ref="index"/>
+    <file name="form_process.php" crc="257545537" ref="index"/>
+    <file name="form-u305.php" crc="3807329493" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="232371266" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="b20 first logo-crop-u607.jpg" crc="3770879266" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg1.jpg" crc="4147264612" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="hp-018_space_shuttle-1-800x600.jpg" crc="4104765961" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="screen shot 2017-12-31 at 70653 am copy.jpg" crc="4486815" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="night-industry-rails-railroads-medium.jpg" crc="4048567330" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg2.jpg" crc="3950595014" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="370343050" seo="true" mt="1515106145766" redirect="true"/>
+</manifest>
